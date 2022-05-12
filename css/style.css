@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(20, 20, 63);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 200px;
+    margin-top: 0px;
+}
+
+.contato {
+    display: flex;
+    
+    
+}
+
+.contato img{
+    padding: 5px;
+    padding-top: 0px;
+}
+
+.dadosPrincipaisComImagem{
+    display: flex;
+}
+
+.dadosPrincipaisComImagem .eu{
+    padding-left: 0px;
+    padding-top: 20px;
+}
